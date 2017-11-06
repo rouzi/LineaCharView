@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.example.rouzi.lineacharview.CircleWave.CircleWaveView
+        android:id="@+id/circle_view"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="50dp"
+        android:layout_gravity="center_horizontal"/>
+
+    <!--<com.example.rouzi.lineacharview.CircleWave.CircleWaveView1-->
+        <!--android:id="@+id/circle_view1"-->
+        <!--android:layout_width="200dp"-->
+        <!--android:layout_height="200dp"-->
+        <!--android:layout_marginTop="10dp"-->
+        <!--android:layout_gravity="center_horizontal"/>-->
+
+    <!--<com.example.rouzi.lineacharview.CircleWave.CircleWaveViewShader-->
+        <!--android:id="@+id/circle_view2"-->
+        <!--android:layout_width="200dp"-->
+        <!--android:layout_height="200dp"-->
+        <!--android:layout_gravity="center_horizontal"-->
+        <!--android:layout_marginTop="10dp"/>-->
+
+</LinearLayout>
